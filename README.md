@@ -24,3 +24,8 @@ Step 3:
 Step 4:
 
     sudo dpkg -i ChatGPT_0.12.0_linux_x86_64.deb
+    
+    
+<b><h2>ChatGPT for Mac OS:</b></h2>    
+    
+    
