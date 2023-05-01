@@ -11,11 +11,11 @@ Download: https://github.com/HackWithSumit/ChatGPT-Linux/releases/download/ChatG
 
 Step 1: 
 
-   Download file from above
+     Download file from above
 
 Step 2:
 
-   Open Terminal
+      Open Terminal
 
 Step 3: 
 
