@@ -26,6 +26,8 @@ Step 4:
     sudo dpkg -i ChatGPT_0.12.0_linux_x86_64.deb
     
     
-<b><h2>ChatGPT for Mac OS:</b></h2>    
+<b><h2>ChatGPT for Windows:</b></h2>    
+
+Download : https://github.com/HackWithSumit/ChatGPT-OpenAI/releases/download/ChatGPT-Windows/ChatGPT_0.12.0_windows_x86_64.rar
     
     
