@@ -1,7 +1,12 @@
-# ChatGPT-Linux
+# ChatGPT-Windows | Linux | Mac | Android
 ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruction in a prompt and provide a detailed response.
 
 ![giphy](https://github.com/HackWithSumit/ChatGPT-OpenAI/assets/120317751/78106e90-b9cb-429f-a7c8-86363994071d)
+
+
+ChatGPT For Android Device :
+
+
 
 
 
