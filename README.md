@@ -14,7 +14,7 @@ ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruc
 
 Download: 
        
-       https://github.com/HackWithSumit/ChatGPT-Linux/releases/download/ChatGPT/ChatGPT_0.12.0_linux_x86_64.deb
+    https://github.com/HackWithSumit/ChatGPT-Linux/releases/download/ChatGPT/ChatGPT_0.12.0_linux_x86_64.deb
 
 <b>Installation:</b>
 
