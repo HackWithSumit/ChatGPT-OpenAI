@@ -38,6 +38,8 @@ Step 4:
     
 <b><h2>ChatGPT for Windows:</b></h2>    
 
-Download : https://github.com/HackWithSumit/ChatGPT-OpenAI/releases/download/ChatGPT-Windows/ChatGPT_0.12.0_windows_x86_64.rar
+Download : 
+
+    https://github.com/HackWithSumit/ChatGPT-OpenAI/releases/download/ChatGPT-Windows/ChatGPT_0.12.0_windows_x86_64.rar
     
     
