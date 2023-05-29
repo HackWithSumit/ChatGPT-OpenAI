@@ -4,7 +4,7 @@ ChatGPT is a sibling model to InstructGPT, which is trained to follow an instruc
 ![giphy](https://github.com/HackWithSumit/ChatGPT-OpenAI/assets/120317751/78106e90-b9cb-429f-a7c8-86363994071d)
 
 
-<b><h2>ChatGPT For Android Device ?(Latest) : </b></h2>
+<b><h2>ChatGPT For Android Device (Latest) : </b></h2>
 
 
     https://github.com/HackWithSumit/ChatGPT-OpenAI/releases/download/ChatGPT-Android/ChatGPT.apk
